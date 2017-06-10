@@ -1,0 +1,17 @@
+------------------------------------------------ Git Configuration ---------------------------------------
+
+
+1. Create new Repo : 1. Public 2. Private (may Cost)
+2. Create or clone the direct : 	
+		1. Create
+			----- create a dict. in systems same name as git repo.
+		2. Clone (Auto. init.)
+			git clone --------------- paste ssh link of the repo.----------------	
+			
+3. Init the project
+		go to that dirt.
+			git init
+
+4. 
+				1. Upload the file to the git		
+						
